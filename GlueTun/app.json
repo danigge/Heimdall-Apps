@@ -1,0 +1,10 @@
+{
+    "appid": "6791b665d08a040b524c73c8800a9388dcc00b80",
+    "name": "GlueTun",
+    "website": "https://github.com/qdm12/gluetun",
+    "license": "MIT License",
+    "description": "\"Lightweight swiss-knife-like VPN client to multiple VPN service providers.\" A docker container to manage network traffic and route it through a VPN tunnel. Docker containers can have their network mode set to the GlueTun container or service. It also integrates shadowsocks and plain http proxy servers to be able to route network traffic through the tunnel from anywhere on your network. It also provides an API which can be used to get the current VPN connection details.",
+    "enhanced": false,
+    "tile_background": "light",
+    "icon": "gluetun.png"
+}
